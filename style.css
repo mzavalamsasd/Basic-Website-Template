@@ -7,3 +7,22 @@ body {
 .subtitle{color:red;}
 #page-title{font-size: 48px; color: navy;}
 #my-name
+#bio {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.highlight {
+  font-style: italic;
+  color: green;
+}
+.card {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.card-title {
+  color: darkblue;
+  font-size: 24px;
+
+
