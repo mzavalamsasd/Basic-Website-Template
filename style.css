@@ -3,34 +3,10 @@ body {
   background-color: #6588c8;
   font-family: Georgia, serif;
 }
-
 .subtitle{
 color:red;
 border: 2px black
-padding: auto;  
+padding: 20px;  
 margin: auto;  
 width: 300px;   
-}
-
-#page-title{font-size: 48px; color: navy;}
-#my-name
-#bio {
-  font-size: 20px;
-  font-weight: bold;
-
-}
-
-.highlight {
-  font-style: italic;
-  color: green;
-}
-.card {
-  background-color: lightgray;
-  padding: 20px;
-}
-
-.card-title {
-  color: darkblue;
-  font-size: 24px;
-
 
