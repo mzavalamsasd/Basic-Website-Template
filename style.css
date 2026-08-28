@@ -2,68 +2,7 @@ body {
   color: hsl(217, 42%, 94%);
   background-color: hsl(0, 5%, 11%);
   font-family: Georgia, serif;
-
- selector {
-  property: value;
-}
-.subtitle {
-  border: 2px solid black;
-}
-
-.subtitle {
-  border: 2px solid black;
-  padding: 20px;
-}
-
-.subtitle {
-  border: 2px solid black;
-  padding: 20px;
-  margin: 40px;
-}
-
-.favorites-list {
-  padding-left: 30px;
-  margin-top: 10px;
-  margin-bottom: 40px;
-}
-
-#about-box {
-  width: 600px;
   margin: 0 auto;
-  text-align: cent
-
-  body {
-  color: #2B2620;
-  background-color: hsl(171, 88%, 56%);
-  font-family: 'Times New Roman', Times, serif;
-
-  .subtitle {
-  border: 2px solid black;
-  padding: 20px;
-  margin: 40px;
-}
-.favorites-list {
-  padding-left: 30px;
-  margin-top: 10px;
-  margin-bottom: 40px;
-}
-
-#about-box {
-  width: 600px;
-  margin: 0 auto;
-  text-align: center;
-body {
-  color: #2B2620;
-  background-color: #26f29d;
-  font-family: 'Times New Roman', Times, serif;
-}
-body {
-  color: #2B2620;
-  background-color: #26f29d;
-  font-family: 'Times New Roman', Times, serif;
-  width: 700px;
-  margin: 0 auto;
-  padding: 20px;
 }
 
 
